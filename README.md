@@ -45,7 +45,7 @@ The codes for my 36-hour Image_Processing_Computer_Vision (Level 1) course, incl
 2. File -> Open Notebook
 3. Select GitHub, and Copy & Paste this repository URL
 4. Click to open any of the available Jupyter Notebook file (*.ipynb)
-5. Execute it step by step, and learn by filling the "..." places! :)
+5. Go step by step, and do the required exercises! :)
 
 ## Available Notebooks: 
 - Basic_Concepts.ipynb
