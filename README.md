@@ -1,6 +1,5 @@
 # Image Processing & Computer Vision (Level 1)
-## Course Codes
-### Dr. Hesham Eraqi, 2021
+### Course Codes, Dr. Hesham Eraqi, 2021
 
 The codes for my 36-hour Image_Processing_Computer_Vision (Level 1) course with the following content:
 - Overview of Image Processing and Computer Vision
