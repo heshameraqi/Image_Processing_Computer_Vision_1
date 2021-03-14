@@ -34,6 +34,7 @@ The codes for my 36-hour Image Processing & Computer Vision (Level 1) course acc
     - Single Neuron Model
     - Multilayer Perceptron (MLP) Neural Networks
     - Face Detection (Haar Cascades)
+    - SURF/SIFT & Bag of Visual Words for Image Classification
 - Hands-on Applications of Computer Vision and Deep Learning
     - Convolutional Neural Networks (CNN)
     - Applications of deep learning for computer vision
